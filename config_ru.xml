@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>wds_price</name>
+    <displayName><![CDATA[Ценовой диапазон]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Показывается число товаров в указанном ценовом диапозоне]]></description>
+    <author><![CDATA[wdesigners]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Вы уверены, что хотите удалить модуль?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
